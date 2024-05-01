@@ -1,13 +1,3 @@
-# import data
-
-# import another
-# from another import yourvar, myvar
-# # from another import ksdkjhfhdsaghfwuaeygfuoyasbfijuasdhf as t
-# # print(t)
-# # print(myvar)
-# # print(yourvar)
-# # el1 = dataDB[0]
-# # print(el1)
 #impoting data
 from question_modal import Question
 from quize_brain import QuizeBrain
